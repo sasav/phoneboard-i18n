@@ -343,7 +343,7 @@ Molimo Vas idite na Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;w
         <location filename="../src/app/overlaysettings.cpp" line="280"/>
         <location filename="../src/app/overlaysettings.cpp" line="489"/>
         <source>No Connection Color</source>
-        <translation>Nije spojeno Boja</translation>
+        <translation>Boja: Nije spojeno</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="434"/>
@@ -364,13 +364,13 @@ Molimo Vas idite na Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;w
         <location filename="../src/app/overlaysettings.cpp" line="332"/>
         <location filename="../src/app/overlaysettings.cpp" line="492"/>
         <source>Ground Color</source>
-        <translation>Masa Boja</translation>
+        <translation>Boja: Masa</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="383"/>
         <location filename="../src/app/overlaysettings.cpp" line="495"/>
         <source>Active Color</source>
-        <translation>Aktivno Boja</translation>
+        <translation>Boja: Aktivno/spojeno</translation>
     </message>
 </context>
 <context>
